@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(204, 204, 204);
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+  
+}
+table,td {
+    border: 3px solid white;
+    
+}
+
+td {
+    padding: 1em;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+
+
+#btn {
+    margin-top: 1.5em;;
+}
+#btn button {
+    font-size: 1.3em;
+    width: 100%;
+    padding: .5em;
+}
